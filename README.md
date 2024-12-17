@@ -1,3 +1,1 @@
-# exercise-in-agil-method
-
-# Description
+# Exercise in agil method
