@@ -22,3 +22,9 @@ google [google](https://google.com)
 1. installationsteg1
 2. installationsteg2
 3. installationsteg3
+
+**Funktion**
+```bash
+npm install
+```
+To install all npm packages, run `npm install`
